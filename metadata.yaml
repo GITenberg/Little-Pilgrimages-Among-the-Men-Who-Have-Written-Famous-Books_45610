@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43334'
     url: http://www.gutenberg.org/2009/agents/43334
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45610#Little-Pilgrimages-Among-the-Men-Who-Have-Written-Famous-Books
 gutenberg_issued: '2014-05-07'
 gutenberg_type: Text
 identifiers:
