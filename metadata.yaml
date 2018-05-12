@@ -1,0 +1,32 @@
+_repo: Little-Pilgrimages-Among-the-Men-Who-Have-Written-Famous-Books_45610
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45610-h/images/cover-image1.jpg
+creator:
+  author:
+    agent_name: Harkins, E. F. (Edward Francis)
+    alias: Harkins, Edward Francis
+    birthdate: 1872
+    gutenberg_agent_id: '43334'
+    url: http://www.gutenberg.org/2009/agents/43334
+description: ''
+gutenberg_issued: '2014-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+tableOfContents: William Dean Howells -- Bret Harte -- Mark Twain -- "Lew" Wallace
+  -- George W. Cable -- Henry James -- Francis Richard Stockton -- Joel Chandler Harris
+  -- S. Weir Mitchell -- Robert Grant -- F. Marion Crawford -- James Lane Allen --
+  Thomas Nelson Page -- Richard Harding Davis -- John Kendrick Bangs -- Hamlin Garland
+  -- Paul Leicester Ford -- Robert Neilson Stephens -- Charles D. G. Roberts -- Winston
+  Churchill.
+title: Little Pilgrimages Among the Men Who Have Written Famous Books
+url: http://www.gutenberg.org/ebooks/45610
